@@ -5,9 +5,9 @@
             <div class="column is-3">
 
 
-                <div class="card has-background-dark has-text-light">
+                <div class="card">
                     <header class="card-header">
-                        <p class="card-header-title has-text-light">
+                        <p class="card-header-title">
                             <?=$article->title?>
                         </p>
                     </header>
